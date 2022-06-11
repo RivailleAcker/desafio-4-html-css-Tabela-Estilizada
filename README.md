@@ -3,5 +3,17 @@ Esse repositôrio foi criado para criar duas tabelas estilizadas. É somente um 
 
 ## Como foi feito
 Usei todo o conhecimento que eu sei sobre HTML e CSS.
-[<img href="gif1.gif">]
+<img src="./gif1.gif" alt="Gif do meu código HTML" title="Meu código">
 
+### Também usei conhecimentos de HTML e CSS intermediário:
+<img src= ./Screenshot_4.png>
+
+Que foi o 
+```
+margin:auto;
+text-align: center
+```
+O objetivo foi feito para centralizar a tabela.
+<img src= ./tabela1.png>
+
+Esses códigos, eu aprendi vendo outros colegas falando sobre código e então tive a ideia de usar no projeto.
