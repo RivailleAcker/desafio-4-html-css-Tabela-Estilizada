@@ -14,6 +14,7 @@ margin:auto;
 text-align: center
 ```
 O objetivo foi feito para centralizar a tabela.
+
 <img src= ./tabela1.png>
 
 Esses códigos, eu aprendi vendo outros colegas falando sobre código e então tive a ideia de usar no projeto.
