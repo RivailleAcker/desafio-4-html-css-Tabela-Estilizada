@@ -3,5 +3,5 @@ Esse repositôrio foi criado para criar duas tabelas estilizadas. É somente um 
 
 ## Como foi feito
 Usei todo o conhecimento que eu sei sobre HTML e CSS.
-[<img scr="gif1.gif">]
+[<img href="gif1.gif">]
 
