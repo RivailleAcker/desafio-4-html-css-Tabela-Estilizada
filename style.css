@@ -1,0 +1,23 @@
+.corpo{
+font-size: 1.5rem;
+margin: auto;
+text-align: center;
+}
+.tabela1 th{
+ background-color: #BB86FC;
+ color: white;       
+}
+.tabela2 th{
+ background-color: #00C4B4; 
+ color: white;
+}
+.tabela1 td{
+ background-color: #424250;
+ color: rgb(255, 255, 255);
+ padding: 0.5rem;
+}
+.tabela2 td{
+ background-color: #424250;
+ color: rgb(255, 255, 255);
+ padding: 0.5rem;
+}
